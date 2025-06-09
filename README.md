@@ -46,3 +46,4 @@ The bot will be built using the **Discord.Net** library.
 ## 🛠️ Kurulum
 Geliştirme tamamlandığında bu bölüme kurulum adımları eklenecektir.
 Installation steps will be added to this section when development is complete.
+YOLO
